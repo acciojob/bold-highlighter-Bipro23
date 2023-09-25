@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+.green{
+	transition: color 1s ease;
+	color:green;
+}
+.normal{
+	color:black;
+}
